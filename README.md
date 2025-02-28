@@ -60,6 +60,8 @@ yarn build
    - Loading states with skeleton screens
    - Success notifications for form submissions
    - Animated transitions for better user feedback
+   - Card Drawer to show all cards
+   - Transfer amount simulation
 
 3. **State Management**
 
